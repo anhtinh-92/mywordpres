@@ -10,7 +10,7 @@
 	Bình luận cho HomePage	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
-	<description> Anh Tính Wordpress</description>
+	<description></description>
 	<lastBuildDate>Fri, 10 Sep 2021 03:31:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
