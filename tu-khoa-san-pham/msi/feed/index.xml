@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>MSI &#8211; HomePage</title>
+	<title>MSI &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/msi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 04:07:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 03:10:06 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>MSI &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Laptop MSI Bravo 15 B5DD 060VN R5 5600H/8GB/512GB/RX5500M 4GB/15.6&#8243;FHD/Win 10</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/laptop-msi-bravo-15-b5dd-060vn-r5-5600h-8gb-512gb-rx5500m-4gb-15-6fhd-win-10/</link>
@@ -75,28 +86,28 @@
 </tbody>
 </table>
 </div>]]></description>
-										<content:encoded><![CDATA[<p><b>Sức mạnh, phong cách và sự chính xác, tất cả những gì game thủ cần đều xuất hiện trên <a href="https://fptshop.com.vn/may-tinh-xach-tay/msi-bravo-15-b5dd-060vn-r5-5600h">MSI Bravo 15 B5DD 060VN</a></b><b>, chiếc laptop sở hữu cấu hình hoàn toàn từ AMD với những linh kiện mới nhất, mạnh mẽ nhất.</b></p>
+										<content:encoded><![CDATA[<p><b>Sức mạnh, phong cách và sự chính xác, tất cả những gì game thủ cần đều xuất hiện trên <a href="https://fptshop.com.vn/may-tinh-xach-tay/msi-bravo-15-b5dd-060vn-r5-5600h" target="_blank" rel="noopener">MSI Bravo 15 B5DD 060VN</a></b><b>, chiếc laptop sở hữu cấu hình hoàn toàn từ AMD với những linh kiện mới nhất, mạnh mẽ nhất.</b></p>
 <p><b><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-1.jpg" alt="MSI Bravo 15 B5DD 060VN" width="662" height="441" /></b></p>
 <h3><b>Công nghệ 7nm đột phá</b></h3>
-<p>Sức mạnh của MSI Bravo 15 là sự kết hợp hoàn toàn từ <a href="https://fptshop.com.vn/tin-tuc/danh-gia/tim-hieu-ve-card-do-hoa-cua-amd-56464">nhà AMD</a>, bao gồm <a href="https://fptshop.com.vn/may-tinh-xach-tay/amd-ryzen-5"><strong>bộ vi xử lý AMD Ryzen 5 5600H</strong></a> và card đồ họa rời AMD Radeon RX 5500M. Đây đều là những linh kiện sản xuất trên tiến trình 7nm mới nhất. Ryzen 5 5600H thể hiện sức mạnh đa luồng vượt trội với 6 lõi 12 luồng, tốc độ 3.3 – 4.2GHz, trong khi đó Radeon RX 5500M sử dụng chip Navi 14 mới, hỗ trợ GDDR6 VRAM, cho hiệu năng mạnh mẽ tương đương GTX 1660 Ti. Hiệu suất mà MSI Bravo 15 B5DD mang lại không thua kém gì những bộ PC gaming, cho bạn chơi game với đồ họa tuyệt đẹp, fps cao và ổn định.</p>
+<p>Sức mạnh của MSI Bravo 15 là sự kết hợp hoàn toàn từ <a href="https://fptshop.com.vn/tin-tuc/danh-gia/tim-hieu-ve-card-do-hoa-cua-amd-56464" target="_blank" rel="noopener">nhà AMD</a>, bao gồm <a href="https://fptshop.com.vn/may-tinh-xach-tay/amd-ryzen-5" target="_blank" rel="noopener"><strong>bộ vi xử lý AMD Ryzen 5 5600H</strong></a> và card đồ họa rời AMD Radeon RX 5500M. Đây đều là những linh kiện sản xuất trên tiến trình 7nm mới nhất. Ryzen 5 5600H thể hiện sức mạnh đa luồng vượt trội với 6 lõi 12 luồng, tốc độ 3.3 – 4.2GHz, trong khi đó Radeon RX 5500M sử dụng chip Navi 14 mới, hỗ trợ GDDR6 VRAM, cho hiệu năng mạnh mẽ tương đương GTX 1660 Ti. Hiệu suất mà MSI Bravo 15 B5DD mang lại không thua kém gì những bộ PC gaming, cho bạn chơi game với đồ họa tuyệt đẹp, fps cao và ổn định.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-7.jpg" alt="cấu hình MSI Bravo 15 B5DD 060VN" width="609" height="406" /></p>
 <h3><b>Thiết kế mới phá cách, nổi bật tinh thần Lôi Điểu</b></h3>
-<p>Đặc trưng của <a href="https://fptshop.com.vn/may-tinh-xach-tay/msi">dòng MSI Bravo</a> là logo Lôi Điểu đầy quyền năng. Phiên bản mới MSI Bravo 15 B5DD vẫn có màu đen mạnh mẽ nhưng mặt lưng đã thêm nhiều đường viền cách điệu, qua đó nổi bật logo Lôi Điểu hơn. Nhìn mặt lưng này bạn có thể nhận ra một con chim Sấm mạnh mẽ đang bay lượn trên nền trời đen, đưa đôi mắt sắc bén hướng về phía con mồi. Thiết kế tuyệt đẹp và câu chuyện mang tính biểu tượng tạo sự riêng biệt cho laptop MSI Bravo 15 B5DD, điều mà game thủ rất yêu thích.</p>
+<p>Đặc trưng của <a href="https://fptshop.com.vn/may-tinh-xach-tay/msi" target="_blank" rel="noopener">dòng MSI Bravo</a> là logo Lôi Điểu đầy quyền năng. Phiên bản mới MSI Bravo 15 B5DD vẫn có màu đen mạnh mẽ nhưng mặt lưng đã thêm nhiều đường viền cách điệu, qua đó nổi bật logo Lôi Điểu hơn. Nhìn mặt lưng này bạn có thể nhận ra một con chim Sấm mạnh mẽ đang bay lượn trên nền trời đen, đưa đôi mắt sắc bén hướng về phía con mồi. Thiết kế tuyệt đẹp và câu chuyện mang tính biểu tượng tạo sự riêng biệt cho laptop MSI Bravo 15 B5DD, điều mà game thủ rất yêu thích.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-3.jpg" alt="thiết kế MSI Bravo 15 B5DD 060VN" width="653" height="435" /></p>
 <h3><b>Màn hình 144Hz viền mỏng, chính xác trong từng chuyển động</b></h3>
-<p>MSI Bravo 15 với <a href="https://fptshop.com.vn/may-tinh-xach-tay/tren-15-inch">màn hình 15,6 inch</a>, viền siêu mỏng, độ phân giải Full HD sắc nét và tấm nền IPS sẽ đưa bạn đến không gian game mãn nhãn, đắm chìm trong cuộc phiêu lưu ly kỳ, hấp dẫn. Nhưng ấn tượng hơn phải kể đến <a href="https://fptshop.com.vn/tin-tuc/danh-gia/top-man-hinh-144hz-dang-mua-nhat-trong-nam-2021-nay-132182">tần số quét 144Hz</a>, mang tới tốc độ khung hình cao cho các tựa game, để bạn được tận hưởng trải nghiệm game mượt mà hơn bao giờ hết. Từng chuyển động nhỏ đều không qua khỏi tầm mắt, cho bạn lợi thế để dành chiến thắng.</p>
+<p>MSI Bravo 15 với <a href="https://fptshop.com.vn/may-tinh-xach-tay/tren-15-inch" target="_blank" rel="noopener">màn hình 15,6 inch</a>, viền siêu mỏng, độ phân giải Full HD sắc nét và tấm nền IPS sẽ đưa bạn đến không gian game mãn nhãn, đắm chìm trong cuộc phiêu lưu ly kỳ, hấp dẫn. Nhưng ấn tượng hơn phải kể đến <a href="https://fptshop.com.vn/tin-tuc/danh-gia/top-man-hinh-144hz-dang-mua-nhat-trong-nam-2021-nay-132182" target="_blank" rel="noopener">tần số quét 144Hz</a>, mang tới tốc độ khung hình cao cho các tựa game, để bạn được tận hưởng trải nghiệm game mượt mà hơn bao giờ hết. Từng chuyển động nhỏ đều không qua khỏi tầm mắt, cho bạn lợi thế để dành chiến thắng.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-12.jpg" alt="màn hình MSI Bravo 15 B5DD 060VN" width="690" height="460" /></p>
 <h3><b>Bàn phím LED đỏ đậm chất MSI</b></h3>
 <p>Màu sắc chủ đạo của một sản phẩm MSI luôn là đen và đỏ. Chính vì thế MSI Bravo 15 sử dụng bàn phím đi kèm đèn nền màu đỏ rực rỡ, mang tới ánh sáng đỏ nổi bật trên thân máy màu đen đậm chất MSI. Bàn phím này được thiết kế công thái học với các phím nóng cho game thủ, hành trình phím tối ưu 1,7mm, tích hợp bàn phím số. Nhờ vậy, bạn có thể thao tác nhanh chóng và chính xác nhất để dành chiến thắng trong từng trận chiến.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-8.jpg" alt="bàn phím MSI Bravo 15 B5DD 060VN" width="507" height="338" /></p>
 <h3><b>Tận hưởng giai điệu trong từng chất âm</b></h3>
-<p>Cảm nhận chất âm đến từng chi tiết khi nghe nhạc, chơi game qua chuẩn âm thanh Hi-Res Audio cao cấp 192KHz/24bit. Bên cạnh đó bạn còn được trải nghiệm âm nhạc lossless, âm thanh vòm 3D cùng những thiết lập cấu hình âm thanh cho các tác vụ và thể loại âm nhạc khác nhau qua <a href="https://fptshop.com.vn/tin-tuc/for-gamers/tim-hieu-ve-nahimic3-cong-nghe-am-thanh-cuc-dinh-tren-laptop-choi-game-msi-gf63-72485">công nghệ Nahimic</a>. Trên MSI Bravo, bạn sẽ được tận hưởng âm nhạc, gaming một cách thú vị nhờ chất lượng âm thanh xuất sắc.</p>
+<p>Cảm nhận chất âm đến từng chi tiết khi nghe nhạc, chơi game qua chuẩn âm thanh Hi-Res Audio cao cấp 192KHz/24bit. Bên cạnh đó bạn còn được trải nghiệm âm nhạc lossless, âm thanh vòm 3D cùng những thiết lập cấu hình âm thanh cho các tác vụ và thể loại âm nhạc khác nhau qua <a href="https://fptshop.com.vn/tin-tuc/for-gamers/tim-hieu-ve-nahimic3-cong-nghe-am-thanh-cuc-dinh-tren-laptop-choi-game-msi-gf63-72485" target="_blank" rel="noopener">công nghệ Nahimic</a>. Trên MSI Bravo, bạn sẽ được tận hưởng âm nhạc, gaming một cách thú vị nhờ chất lượng âm thanh xuất sắc.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-11.jpg" alt="âm thanh MSI Bravo 15 B5DD 060VN" width="653" height="435" /></p>
 <h3><b>Hoạt động mát mẻ với tản nhiệt Cooler Boost 5</b></h3>
-<p>Hiệu năng trên MSI Bravo 15 được đảm bảo luôn luôn ổn định, dù là bạn chơi game liên tục trong thời gian dài. Bí mật nằm ở giải pháp tản nhiệt chuyên dụng Cooler Boost 5 cho cả <a href="https://fptshop.com.vn/tin-tuc/danh-gia/cpu-va-gpu-khac-biet-la-gi-va-cai-nao-quan-trong-hon-129668">CPU và GPU</a> với tối đa 6 ống dẫn nhiệt, kết hợp cùng quạt tản nhiệt để hoạt động hài hòa, giảm thiểu nhiệt cũng như tối ưu luồng khí. Nhờ việc mở rộng đường kính bên trong ống dẫn nhiệt và sử dụng keo tản nhiệt độc quyền của MSI, laptop gaming của bạn sẽ luôn mát mẻ, không bị hiện tượng quá nhiệt dù trong một khung máy nhỏ gọn.</p>
+<p>Hiệu năng trên MSI Bravo 15 được đảm bảo luôn luôn ổn định, dù là bạn chơi game liên tục trong thời gian dài. Bí mật nằm ở giải pháp tản nhiệt chuyên dụng Cooler Boost 5 cho cả <a href="https://fptshop.com.vn/tin-tuc/danh-gia/cpu-va-gpu-khac-biet-la-gi-va-cai-nao-quan-trong-hon-129668" target="_blank" rel="noopener">CPU và GPU</a> với tối đa 6 ống dẫn nhiệt, kết hợp cùng quạt tản nhiệt để hoạt động hài hòa, giảm thiểu nhiệt cũng như tối ưu luồng khí. Nhờ việc mở rộng đường kính bên trong ống dẫn nhiệt và sử dụng keo tản nhiệt độc quyền của MSI, laptop gaming của bạn sẽ luôn mát mẻ, không bị hiện tượng quá nhiệt dù trong một khung máy nhỏ gọn.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-15.jpg" alt="tản nhiệt MSI Bravo 15 B5DD 060VN" width="704" height="469" /></p>
 <h3><b>Chiếc laptop gaming thế hệ mới</b></h3>
-<p>Cuộc sống hiện đại đòi hỏi mọi thiết bị phải luôn sẵn sàng mỗi khi người dùng cần. MSI Bravo 15 B5DD có thể ngay lập tức hoạt động từ chế độ ngủ trong thời gian chưa đến 1 giây, không bỏ lỡ những phút giây quý giá của bạn. Ngoài ra máy còn hỗ trợ <a href="https://fptshop.com.vn/tin-tuc/danh-gia/tat-ca-nhung-gi-ban-can-biet-ve-chuan-wi-fi-6-moi-nhat-114640">mạng Wi-Fi 6</a> chuẩn mới nhất 802.11ax cho tốc độ nhanh gấp 3 lần <a href="https://fptshop.com.vn/tin-tuc/danh-gia/wi-fi-6-vs-wi-fi-5-su-khac-biet-chinh-la-gi-129254">Wi-Fi 5</a> trước đây, giúp đường truyền mạng không dây nhanh và ổn định. Không chỉ chơi game, dù là bạn phát trực tuyến hay giao tiếp cũng đều mượt mà hơn nhờ tốc độ mạng lên tới 2,4 Gb/s đồng thời độ trễ giảm tới 75%.</p>
+<p>Cuộc sống hiện đại đòi hỏi mọi thiết bị phải luôn sẵn sàng mỗi khi người dùng cần. MSI Bravo 15 B5DD có thể ngay lập tức hoạt động từ chế độ ngủ trong thời gian chưa đến 1 giây, không bỏ lỡ những phút giây quý giá của bạn. Ngoài ra máy còn hỗ trợ <a href="https://fptshop.com.vn/tin-tuc/danh-gia/tat-ca-nhung-gi-ban-can-biet-ve-chuan-wi-fi-6-moi-nhat-114640" target="_blank" rel="noopener">mạng Wi-Fi 6</a> chuẩn mới nhất 802.11ax cho tốc độ nhanh gấp 3 lần <a href="https://fptshop.com.vn/tin-tuc/danh-gia/wi-fi-6-vs-wi-fi-5-su-khac-biet-chinh-la-gi-129254" target="_blank" rel="noopener">Wi-Fi 5</a> trước đây, giúp đường truyền mạng không dây nhanh và ổn định. Không chỉ chơi game, dù là bạn phát trực tuyến hay giao tiếp cũng đều mượt mà hơn nhờ tốc độ mạng lên tới 2,4 Gb/s đồng thời độ trễ giảm tới 75%.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/MSI-Bravo-15-B5DD-fpt-4.jpg" alt="gaming MSI Bravo 15 B5DD 060VN" width="615" height="410" /></p>
 ]]></content:encoded>
 					

@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Loa &#8211; HomePage</title>
+	<title>Loa &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/loa/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 04:32:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 03:10:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>Loa &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Tai nghe chụp tai Gaming MozardX G1</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/tai-nghe-chup-tai-gaming-mozardx-g1/</link>

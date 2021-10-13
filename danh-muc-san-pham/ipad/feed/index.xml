@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Ipad &#8211; HomePage</title>
+	<title>Ipad &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ipad/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 04:07:56 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 03:10:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>Ipad &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Samsung Galaxy Tab S7 FE</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/samsung-galaxy-tab-s7-fe/</link>
@@ -85,10 +96,10 @@
 </div>]]></description>
 										<content:encoded><![CDATA[<div class="card-body">
 <div class="st-pd-content">
-<p><b>Một chiếc máy tính bảng màn hình lớn sẽ giúp mọi trải nghiệm dù là học hay chơi đều trở nên vô cùng hấp dẫn. <a href="https://fptshop.com.vn/may-tinh-bang/samsung-galaxy-tab-s7-fe">Samsung Galaxy Tab S7 FE</a></b><b> với hiệu năng tuyệt đỉnh và bút S Pen chuyên nghiệp sẽ luôn mang đến sự thú vị cho bạn.</b></p>
+<p><b>Một chiếc máy tính bảng màn hình lớn sẽ giúp mọi trải nghiệm dù là học hay chơi đều trở nên vô cùng hấp dẫn. <a href="https://fptshop.com.vn/may-tinh-bang/samsung-galaxy-tab-s7-fe" target="_blank" rel="noopener">Samsung Galaxy Tab S7 FE</a></b><b> với hiệu năng tuyệt đỉnh và bút S Pen chuyên nghiệp sẽ luôn mang đến sự thú vị cho bạn.</b></p>
 <p><b><img src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/samsung-galaxy-tab-s7-fe-1.jpg" alt="Samsung Galaxy Tab S7 FE" /></b></p>
 <h3><b>Đẳng cấp đến từ sự đơn giản</b></h3>
-<p>Thiết kế của một sản phẩm cao cấp đến từ <a href="https://fptshop.com.vn/dien-thoai/samsung">Samsung</a> chưa bao giờ làm bạn phải thất vọng. Galaxy Tab S7 FE sở hữu thiết kế nguyên khối đơn giản nhưng đầy tinh tế với kiểu dáng siêu mỏng, cụm camera được làm gọn gàng ở mặt sau. Màn hình viền mỏng đều cả 4 cạnh không chỉ nâng cao trải nghiệm xem, mà còn góp phần giúp <a href="https://fptshop.com.vn/may-tinh-bang">máy tính bảng</a> nhỏ gọn hơn.</p>
+<p>Thiết kế của một sản phẩm cao cấp đến từ <a href="https://fptshop.com.vn/dien-thoai/samsung" target="_blank" rel="noopener">Samsung</a> chưa bao giờ làm bạn phải thất vọng. Galaxy Tab S7 FE sở hữu thiết kế nguyên khối đơn giản nhưng đầy tinh tế với kiểu dáng siêu mỏng, cụm camera được làm gọn gàng ở mặt sau. Màn hình viền mỏng đều cả 4 cạnh không chỉ nâng cao trải nghiệm xem, mà còn góp phần giúp <a href="https://fptshop.com.vn/may-tinh-bang" target="_blank" rel="noopener">máy tính bảng</a> nhỏ gọn hơn.</p>
 <p><img src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/samsung-galaxy-tab-s7-fe-2.jpg" alt="thiết kế Samsung Galaxy Tab S7 FE" /></p>
 <h3><b>Thế giới giải trí sống động ngay trên tay bạn</b></h3>
 <p>Cùng tận hưởng màu sắc rực rỡ trên màn hình lớn tới 12,4 inch của Galaxy Tab S7 FE. Độ phân giải 2K cực nét, các chi tiết hiển thị sống động giúp mọi hình ảnh, đoạn phim xem trên máy tính bảng đều có chất lượng điện ảnh.</p>
@@ -112,8 +123,8 @@
 <p>Được gọi là “cây bút quyền lực”, S Pen có thể làm được rất nhiều điều trên máy tính bảng Galaxy Tab S7 FE của bạn. Ghi chú bằng tay và chuyển thành văn bản; Gắn thẻ tiêu đề cho những hoạt động đang ghi chú; Thỏa sức vẽ, thiết kế và sáng tạo với những ứng dụng chuyên nghiệp; S Pen sẽ khiến cho quá trình học tập và làm việc của bạn trở nên hiệu quả hơn rất nhiều.</p>
 <p><img src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/samsung-galaxy-tab-s7-fe-8.jpg" alt="note Samsung Galaxy Tab S7 FE" /></p>
 <h3><b>Đồng bộ hoàn toàn với điện thoại Galaxy</b></h3>
-<p>Sử dụng chung một <a href="https://fptshop.com.vn/samsung">hệ sinh thái của Samsung</a> sẽ cho bạn trải nghiệm liền mạch. Máy tính bảng Galaxy Tab S7 FE đồng bộ hoàn toàn với điện thoại Galaxy. Bạn có thể sao chép mọi nội dung trên máy tính bảng và dán vào điện thoại; nhận thông báo, cuộc gọi từ điện thoại lên máy tính bảng; di chuyển dữ liệu giữa các thiết bị.</p>
-<p>Ngay cả khi bạn đang sử dụng <a href="https://fptshop.com.vn/phu-kien/tai-nghe-samsung-gbuds">tai nghe Galaxy Buds</a> để xem phim trên máy tính bảng mà có cuộc gọi đến, tai nghe sẽ tự động kết nối với điện thoại để trả lời cuộc gọi và quay trở lại với máy tính bảng khi kết thúc cuộc gọi.</p>
+<p>Sử dụng chung một <a href="https://fptshop.com.vn/samsung" target="_blank" rel="noopener">hệ sinh thái của Samsung</a> sẽ cho bạn trải nghiệm liền mạch. Máy tính bảng Galaxy Tab S7 FE đồng bộ hoàn toàn với điện thoại Galaxy. Bạn có thể sao chép mọi nội dung trên máy tính bảng và dán vào điện thoại; nhận thông báo, cuộc gọi từ điện thoại lên máy tính bảng; di chuyển dữ liệu giữa các thiết bị.</p>
+<p>Ngay cả khi bạn đang sử dụng <a href="https://fptshop.com.vn/phu-kien/tai-nghe-samsung-gbuds" target="_blank" rel="noopener">tai nghe Galaxy Buds</a> để xem phim trên máy tính bảng mà có cuộc gọi đến, tai nghe sẽ tự động kết nối với điện thoại để trả lời cuộc gọi và quay trở lại với máy tính bảng khi kết thúc cuộc gọi.</p>
 <p><img src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/samsung-galaxy-tab-s7-fe-9.jpg" alt="điện thoại Samsung Galaxy Tab S7 FE" /></p>
 </div>
 </div>
@@ -201,10 +212,10 @@
 </div>
 <h2 class="st-pd-contentTitle">Đánh giá chi tiết Masstel Tab 10 Ultra</h2>
 <div class="st-pd-content">
-<p><b>Một chiếc <a title="Tham khảo nhiều mẫu máy tính bảng chính hãng tại FPTShop để nhận nhiều ưu đãi hấp dẫn" href="https://fptshop.com.vn/may-tinh-bang" type="Tham khảo nhiều mẫu máy tính bảng chính hãng tại FPTShop để nhận nhiều ưu đãi hấp dẫn">máy tính bảng</a> thiết kế vỏ kim loại cao cấp, kiểu dáng thời thượng, màn hình lớn và pin cực trâu nhưng lại có mức giá rẻ đến bất ngờ, <a title="Mua ngay máy tính bảng Masstel Tab 10 Ultra chính hãng, nhận nhiều ưu đãi tại FPTShop" href="https://fptshop.com.vn/may-tinh-bang/masstel-tab-10-ultra" type="Mua ngay máy tính bảng Masstel Tab 10 Ultra chính hãng, nhận nhiều ưu đãi tại FPTShop">Masstel Tab 10 Ultra</a> là thiết bị học tập, giải trí tuyệt vời cho tất cả mọi người.</b></p>
+<p><b>Một chiếc <a title="Tham khảo nhiều mẫu máy tính bảng chính hãng tại FPTShop để nhận nhiều ưu đãi hấp dẫn" href="https://fptshop.com.vn/may-tinh-bang" type="Tham khảo nhiều mẫu máy tính bảng chính hãng tại FPTShop để nhận nhiều ưu đãi hấp dẫn" target="_blank" rel="noopener">máy tính bảng</a> thiết kế vỏ kim loại cao cấp, kiểu dáng thời thượng, màn hình lớn và pin cực trâu nhưng lại có mức giá rẻ đến bất ngờ, <a title="Mua ngay máy tính bảng Masstel Tab 10 Ultra chính hãng, nhận nhiều ưu đãi tại FPTShop" href="https://fptshop.com.vn/may-tinh-bang/masstel-tab-10-ultra" type="Mua ngay máy tính bảng Masstel Tab 10 Ultra chính hãng, nhận nhiều ưu đãi tại FPTShop" target="_blank" rel="noopener">Masstel Tab 10 Ultra</a> là thiết bị học tập, giải trí tuyệt vời cho tất cả mọi người.</b></p>
 <p><b><img class="Đánh giá máy tính bảng Masstel Tab 10 Ultra" title="Đánh giá máy tính bảng Masstel Tab 10 Ultra" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/masstel-tab-10-ultra-4.jpg" alt="Đánh giá máy tính bảng Masstel Tab 10 Ultra" /></b></p>
 <h3><b>Màn hình lớn 10.1 inch IPS sắc nét</b></h3>
-<p>Màn hình kích thước lớn tới 10.1 inch của Masstel Tab 10 Ultra chắc chắn sẽ mang đến những trải nghiệm không thể có được ở <a title="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp tại " href="https://fptshop.com.vn/dien-thoai" type="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp tại ">smartphone</a>. Trước mắt bạn sẽ là không gian giải trí cực lớn, hiển thị nội dung nhiều hơn bao giờ hết. Dù là đọc sách, duyệt web, xem phim hay chơi game, màn hình lớn của chiếc <a title="Tham khảo nhiều mẫu điện thoại Masstel chính hãng tại FPTShop nhận nhiều ưu đãi" href="https://fptshop.com.vn/may-tinh-bang/masstel" type="Tham khảo nhiều mẫu điện thoại Masstel chính hãng tại FPTShop nhận nhiều ưu đãi">Masstel</a> này cũng tạo ra sự khác biệt. Công nghệ <a title="Màn hình IPS là gì?" href="https://fptshop.com.vn/tin-tuc/tu-van/man-hinh-ips-la-gi-34814" type="Màn hình IPS là gì?">màn hình IPS LCD</a> độ phân giải chuẩn HD đủ để hình ảnh hiển thị sắc nét đầy ấn tượng.</p>
+<p>Màn hình kích thước lớn tới 10.1 inch của Masstel Tab 10 Ultra chắc chắn sẽ mang đến những trải nghiệm không thể có được ở <a title="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp tại " href="https://fptshop.com.vn/dien-thoai" type="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp tại " target="_blank" rel="noopener">smartphone</a>. Trước mắt bạn sẽ là không gian giải trí cực lớn, hiển thị nội dung nhiều hơn bao giờ hết. Dù là đọc sách, duyệt web, xem phim hay chơi game, màn hình lớn của chiếc <a title="Tham khảo nhiều mẫu điện thoại Masstel chính hãng tại FPTShop nhận nhiều ưu đãi" href="https://fptshop.com.vn/may-tinh-bang/masstel" type="Tham khảo nhiều mẫu điện thoại Masstel chính hãng tại FPTShop nhận nhiều ưu đãi" target="_blank" rel="noopener">Masstel</a> này cũng tạo ra sự khác biệt. Công nghệ <a title="Màn hình IPS là gì?" href="https://fptshop.com.vn/tin-tuc/tu-van/man-hinh-ips-la-gi-34814" type="Màn hình IPS là gì?" target="_blank" rel="noopener">màn hình IPS LCD</a> độ phân giải chuẩn HD đủ để hình ảnh hiển thị sắc nét đầy ấn tượng.</p>
 <p><img class="Masstel Tab 10 Ultra | Màn hình lớn 10.1 inch" title="Masstel Tab 10 Ultra | Màn hình lớn 10.1 inch" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/masstel-tab-10-ultra-2.jpg" alt="Masstel Tab 10 Ultra | Màn hình lớn 10.1 inch" /></p>
 <h3><b>Mạnh mẽ trong tầm giá</b></h3>
 <p>So với các thế hệ trước, Masstel Tab 10 Ultra đã có sự nâng cấp vượt trội về cấu hình, trở thành chiếc máy tính bảng rất mạnh mẽ trong tầm giá. Bộ vi xử lý 8 nhân kết hợp cùng 3GB RAM và 32GB bộ nhớ trong sẽ đáp ứng tốt mọi nhu cầu cơ bản của bạn về cả học tập, công việc và giải trí. Tha hồ làm những điều mình thích và tận hưởng màn hình lớn của Tab 10 Ultra một cách mượt mà.</p>
@@ -293,7 +304,7 @@
 </table>]]></description>
 										<content:encoded><![CDATA[<div class="card-body">
 <div class="st-pd-content">
-<p><strong>Kể từ khi ra mắt, dòng sản phẩm iPad mini luôn được người tiêu dùng Việt ưa chuộng nhờ kích cỡ nhỏ nhẹ gọn gàng và mức giá hấp dẫn so với những dòng iPad khác. Sau nhiều năm vắng bóng, giờ đây iPad mini series đã chính thức trở lại với phiên bản <a href="https://fptshop.com.vn/may-tinh-bang/ipad-mini-5-79-wi-fi-64gb">iPad mini 5</a> chạy chip A12 Bionic vô cùng mạnh mẽ. Đặc biệt hơn, phiên bản Wi-Fi 64GB có giá thành hấp dẫn sẽ giúp bạn đến gần hơn bao giờ hết với mong muốn sở hữu một chiếc iPad mini 5.</strong></p>
+<p><strong>Kể từ khi ra mắt, dòng sản phẩm iPad mini luôn được người tiêu dùng Việt ưa chuộng nhờ kích cỡ nhỏ nhẹ gọn gàng và mức giá hấp dẫn so với những dòng iPad khác. Sau nhiều năm vắng bóng, giờ đây iPad mini series đã chính thức trở lại với phiên bản <a href="https://fptshop.com.vn/may-tinh-bang/ipad-mini-5-79-wi-fi-64gb" target="_blank" rel="noopener">iPad mini 5</a> chạy chip A12 Bionic vô cùng mạnh mẽ. Đặc biệt hơn, phiên bản Wi-Fi 64GB có giá thành hấp dẫn sẽ giúp bạn đến gần hơn bao giờ hết với mong muốn sở hữu một chiếc iPad mini 5.</strong></p>
 <p><img id="Mô tả sản phẩm iPad Mini 5 7.9 Wi-Fi 64GB 11" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/1010/Mo-ta-san-pham-ipad-mini-5-7-9-wi-fi-64-gb-1.jpg" alt="Mô tả sản phẩm iPad Mini 5 7.9 Wi-Fi 64GB 1" /></p>
 <h3><strong>Nhỏ nhẹ, gọn gàng và tiện dụng</strong></h3>
 <p>iPad Mini 5 7.9 Wi-Fi 64GB khoác lên mình diện mạo tinh tế với thân máy mỏng 6.1mm hết sức nhỏ gọn, cực kì tiện lợi để mang theo bên mình. Máy có trọng lượng chỉ xấp xỉ 300 gram, do đó, bạn hoàn toàn có thể bỏ thiết bị trong túi xách một cách dễ dàng và không hề bất tiện. Ngay lần đầu trông thấy iPad Mini 5 7.9 Wi-Fi 64GB, bạn sẽ lập tức bị chinh phục bởi kiểu dáng thời trang và thiết kế nhôm nguyên khối sang trọng của sản phẩm này.</p>
@@ -321,7 +332,7 @@
 <h3><img id="Hệ điều hành iOS mượt mà và cập nhật liên tục trên iPad mini 5 1" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/1010/Mo-ta-san-pham-ipad-mini-5-7-9-wi-fi-64-gb-8.jpg" alt="Hệ điều hành iOS mượt mà và cập nhật liên tục trên iPad mini 5" /></h3>
 <p>&nbsp;</p>
 <h3><strong>Hệ điều hành iOS mượt mà và cập nhật liên tục</strong></h3>
-<p>Các sản phẩm <a href="https://fptshop.com.vn/may-tinh-bang/apple-ipad">iPad</a> của Apple từ lâu đã nổi danh nhờ được hỗ trợ nâng cấp phần mềm trong thời gian dài và iPad Mini 5 7.9 Wi-Fi 64GB cũng không phải ngoại lệ. iPad mini 5 sử dụng bản iOS mới nhất cho phép hỗ trợ trải nghiệm đồng thời nhiều ứng dụng, kéo và thả tệp với những cử chỉ tương tác giản đơn và truy cập cùng lúc tất cả các file thông qua một kho chứa Files duy nhất.</p>
+<p>Các sản phẩm <a href="https://fptshop.com.vn/may-tinh-bang/apple-ipad" target="_blank" rel="noopener">iPad</a> của Apple từ lâu đã nổi danh nhờ được hỗ trợ nâng cấp phần mềm trong thời gian dài và iPad Mini 5 7.9 Wi-Fi 64GB cũng không phải ngoại lệ. iPad mini 5 sử dụng bản iOS mới nhất cho phép hỗ trợ trải nghiệm đồng thời nhiều ứng dụng, kéo và thả tệp với những cử chỉ tương tác giản đơn và truy cập cùng lúc tất cả các file thông qua một kho chứa Files duy nhất.</p>
 <p><img id="Hệ điều hành iOS mượt mà và cập nhật liên tục trên iPad mini 5 123" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/AnhNQ/1010/Mo-ta-san-pham-ipad-mini-5-7-9-wi-fi-64-gb-9.jpg" alt="Hệ điều hành iOS mượt mà và cập nhật liên tục trên iPad mini 5 12" /></p>
 <p>&nbsp;</p>
 </div>

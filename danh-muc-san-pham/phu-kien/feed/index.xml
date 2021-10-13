@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>phụ kiện &#8211; HomePage</title>
+	<title>phụ kiện &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/phu-kien/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:10:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Oct 2021 03:51:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>phụ kiện &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Ba lô laptop Tucano Forte 15 inch</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/ba-lo-laptop-tucano-forte-15-inch/</link>
@@ -174,7 +185,7 @@
 				<guid isPermaLink="false">https://anhtinh-92.github.io/mywordpres/?post_type=product&#038;p=240</guid>
 
 					<description><![CDATA[Ốp lưng HTC Desire 12 Plus silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU...]]></description>
-										<content:encoded><![CDATA[<p>Ốp lưng <a href="https://thegioiphukien.vn/phu-kien/phu-kien-htc/htc-desire-12-plus">HTC Desire 12 Plus</a> silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU cao cấp, có độ đàn hồi cao, uốn cong, bóp không bị biến dạng, bảo vệ tuyệt đối cả lưng và viền máy khỏi trày xước, va đập. Các phím bấm được làm nổi giúp thao tác dễ dàng. Sản phẩm chính hãng có logo X-LEVEL được dập nổi ở cạnh bên ốp lưng.</p>
+										<content:encoded><![CDATA[<p>Ốp lưng <a href="https://thegioiphukien.vn/phu-kien/phu-kien-htc/htc-desire-12-plus" target="_blank" rel="noopener">HTC Desire 12 Plus</a> silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU cao cấp, có độ đàn hồi cao, uốn cong, bóp không bị biến dạng, bảo vệ tuyệt đối cả lưng và viền máy khỏi trày xước, va đập. Các phím bấm được làm nổi giúp thao tác dễ dàng. Sản phẩm chính hãng có logo X-LEVEL được dập nổi ở cạnh bên ốp lưng.</p>
 <p><img loading="lazy" class="alignleft size-full wp-image-160987" src="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1.jpg" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" srcset="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1.jpg 700w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1-462x347.jpg 462w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1-400x300.jpg 400w" alt="" width="700" height="525" /> <img loading="lazy" class="alignleft size-full wp-image-160988" src="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2.jpg" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" srcset="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2.jpg 700w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-100x100.jpg 100w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-462x462.jpg 462w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-300x300.jpg 300w" alt="" width="700" height="700" /></p>
 ]]></content:encoded>
 					

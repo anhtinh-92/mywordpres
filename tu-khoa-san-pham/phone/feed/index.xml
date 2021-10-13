@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>phone &#8211; HomePage</title>
+	<title>phone &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/phone/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 03:10:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>phone &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Cáp Lightning</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/cap-lightning/</link>
@@ -66,7 +77,7 @@
 <p>Trang bị bộ vi xử lý Snapdragon 662, Nokia 5.4 không chỉ mạnh mẽ mà còn hoạt động nhanh hơn từng ngày nhờ khả năng học hỏi của trí tuệ nhân tạo AI. Công nghệ AI sẽ dựa theo thói quen sử dụng của bạn để tiên đoán những việc tiếp theo, qua đó phản hồi nhanh hơn, không để bạn phải chờ đợi.</p>
 <p><img loading="lazy" class="Điện thoại Nokia 5.4 | Phản hồi nhanh chóng nhờ công nghệ AI" title="Điện thoại Nokia 5.4 | Phản hồi nhanh chóng nhờ công nghệ AI" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/nokia-54-6.jpg" alt="Điện thoại Nokia 5.4 | Phản hồi nhanh chóng nhờ công nghệ AI" width="706" height="398" /></p>
 <h3><b>Bền bỉ và an toàn</b></h3>
-<p>Thương hiệu <a title="Tham khảo thêm nhiều mẫu điện thoại Nokia chính hãng giá rẻ tại FPTShop" href="https://fptshop.com.vn/dien-thoai/nokia" type="Tham khảo thêm nhiều mẫu điện thoại Nokia chính hãng giá rẻ tại FPTShop">Nokia</a> chính là sự bền bỉ và an toàn, kể cả phần cứng lẫn phần mềm. Nokia 5.4 hỗ trợ tới 3 năm cập nhật hệ thống bảo mật, 2 lần cập nhật hệ điều hành lớn cùng thời lượng pin bền bỉ, để bạn có thể yên tâm sử dụng ổn định trong thời gian dài.</p>
+<p>Thương hiệu <a title="Tham khảo thêm nhiều mẫu điện thoại Nokia chính hãng giá rẻ tại FPTShop" href="https://fptshop.com.vn/dien-thoai/nokia" type="Tham khảo thêm nhiều mẫu điện thoại Nokia chính hãng giá rẻ tại FPTShop" target="_blank" rel="noopener">Nokia</a> chính là sự bền bỉ và an toàn, kể cả phần cứng lẫn phần mềm. Nokia 5.4 hỗ trợ tới 3 năm cập nhật hệ thống bảo mật, 2 lần cập nhật hệ điều hành lớn cùng thời lượng pin bền bỉ, để bạn có thể yên tâm sử dụng ổn định trong thời gian dài.</p>
 <p><img loading="lazy" class="Điện thoại Nokia 5.4 | Bền bỉ và an toàn" title="Điện thoại Nokia 5.4 | Bền bỉ và an toàn" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/nokia-54-7.jpg" alt="Điện thoại Nokia 5.4 | Bền bỉ và an toàn" width="596" height="335" /></p>
 <h3><b>Màn hình lớn cho những trải nghiệm lớn</b></h3>
 <p>Với màn hình lớn 6,39 inch HD+ “đục lỗ” tinh tế, bạn sẽ có không gian hiển thị nội dung tuyệt vời. Dù là truyền phát trực tiếp, chơi game hay duyệt web, vào mạng xã hội, mọi thứ cũng trở nên ấn tượng hơn. Bên cạnh màn hình, thiết kế Nokia 5.4 cũng vô cùng bắt mắt với kiểu dáng Bắc Âu lịch lãm và những màu sắc đậm phong cách.</p>
@@ -155,16 +166,16 @@
 <p><b>Vivo Y20 với thiết kế trẻ trung, cảm biến vân tay cạnh bên thông minh, hiệu năng mượt mà và cụm 3 camera AI chụp siêu cận chuyên nghiệp, sẽ là người bạn đồng hành không thể thiếu của bạn trên mọi nẻo đường.</b></p>
 <p><b><img class="Đánh giá điện thoại Vivo Y20" title="Đánh giá điện thoại Vivo Y20" src="https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/vivo-y20-1.jpg" alt="Đánh giá điện thoại Vivo Y20" /></b></p>
 <h3><b>Giải trí hấp dẫn trên màn hình Halo 6.51 inch</b></h3>
-<p>Màn hình lớn 6.51 inch viền mỏng dạng Halo trên Vivo Y20 giúp mọi hoạt động của bạn đều trở nên thú vị hơn. Bạn có thể nhìn thấy nhiều nội dung hơn khi duyệt web, vào mạng xã hội; tận hưởng không gian màn hình lớn hơn khi xem phim; chơi game. Ngoài màu sắc sống động, hiển thị chi tiết, Vivo Y20 còn có chế độ bảo vệ mắt, giảm ánh sáng xanh khi sử dụng để bảo vệ thị lực của bạn khi sử dụng <a title="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp 0% tại FPTShop" href="https://fptshop.com.vn/dien-thoai" type="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp 0% tại FPTShop">điện thoại</a>.</p>
+<p>Màn hình lớn 6.51 inch viền mỏng dạng Halo trên Vivo Y20 giúp mọi hoạt động của bạn đều trở nên thú vị hơn. Bạn có thể nhìn thấy nhiều nội dung hơn khi duyệt web, vào mạng xã hội; tận hưởng không gian màn hình lớn hơn khi xem phim; chơi game. Ngoài màu sắc sống động, hiển thị chi tiết, Vivo Y20 còn có chế độ bảo vệ mắt, giảm ánh sáng xanh khi sử dụng để bảo vệ thị lực của bạn khi sử dụng <a title="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp 0% tại FPTShop" href="https://fptshop.com.vn/dien-thoai" type="Tham khảo nhiều mẫu điện thoại chính hãng, hỗ trợ trả góp 0% tại FPTShop" target="_blank" rel="noopener">điện thoại</a>.</p>
 <p><img loading="lazy" class="Điện thoại Vivo Y20 | Màn hình Halo 6.51 inch" title="Điện thoại Vivo Y20 | Màn hình Halo 6.51 inch" src="https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/vivo-y20-2.jpg" alt="Điện thoại Vivo Y20 | Màn hình Halo 6.51 inch" width="423" height="282" /></p>
 <h3><b>Thiết kế thời trang, ngập tràn cảm hứng</b></h3>
-<p>Thêm niềm vui mỗi ngày khi cầm trên tay chiếc điện thoại tuyệt đẹp như Vivo Y20. Thân máy thanh mảnh, viền cạnh cong 2D, mặt lưng hiện đại với cụm camera hình chữ nhật tạo điểm nhấn. Chiếc điện thoại <a title="Tham khảo nhiều mẫu điện thoại Vivo chính hãng, hỗ trợ trả góp 0% tại FPTShop" href="https://fptshop.com.vn/dien-thoai/vivo" type="Tham khảo nhiều mẫu điện thoại Vivo chính hãng, hỗ trợ trả góp 0% tại FPTShop">Vivo</a> này không chỉ đẹp mà còn cho cảm giác thoải mái và cao cấp khi cầm trên tay. Cả hai phiên bản màu sắc là Trắng tinh sương và Xanh thiên tú đều lấy cảm hứng từ thiên nhiên, của một thế giới tươi sáng, đầy sống động.</p>
+<p>Thêm niềm vui mỗi ngày khi cầm trên tay chiếc điện thoại tuyệt đẹp như Vivo Y20. Thân máy thanh mảnh, viền cạnh cong 2D, mặt lưng hiện đại với cụm camera hình chữ nhật tạo điểm nhấn. Chiếc điện thoại <a title="Tham khảo nhiều mẫu điện thoại Vivo chính hãng, hỗ trợ trả góp 0% tại FPTShop" href="https://fptshop.com.vn/dien-thoai/vivo" type="Tham khảo nhiều mẫu điện thoại Vivo chính hãng, hỗ trợ trả góp 0% tại FPTShop" target="_blank" rel="noopener">Vivo</a> này không chỉ đẹp mà còn cho cảm giác thoải mái và cao cấp khi cầm trên tay. Cả hai phiên bản màu sắc là Trắng tinh sương và Xanh thiên tú đều lấy cảm hứng từ thiên nhiên, của một thế giới tươi sáng, đầy sống động.</p>
 <p><img loading="lazy" class="Điện thoại Vivo Y20 | Thiết kế thời trang" title="Điện thoại Vivo Y20 | Thiết kế thời trang" src="https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/vivo-y20-3.jpg" alt="Điện thoại Vivo Y20 | Thiết kế thời trang" width="371" height="247" /></p>
 <h3><b>Mở khóa nhanh trong chớp mắt bằng cảm biến vân tay cạnh bên</b></h3>
 <p>Chỉ mất vỏn vẹn 0,22s để bạn mở khóa máy, nhanh hơn rất nhiều so với thao tác nhập mật khẩu truyền thống. Đơn giản chỉ cần một cú chạm vào khu vực cảm biến ở cạnh bên, Vivo Y20 đã sẵn sàng. Hơn nữa, vị trí cảm biến thông minh còn giúp Vivo Y20 thẩm mĩ hơn trong thiết kế, đồng thời cho bạn thao tác nhanh hơn.</p>
 <p><img loading="lazy" class="Điện thoại Vivo Y20 | Cảm biến vân tay cạnh bên" title="Điện thoại Vivo Y20 | Cảm biến vân tay cạnh bên" src="https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/vivo-y20-4.jpg" alt="Điện thoại Vivo Y20 | Cảm biến vân tay cạnh bên" width="582" height="388" /></p>
 <h3><b>Vận hành mượt mà</b></h3>
-<p>Cấu hình của Vivo Y20 đủ mạnh để bạn chạy tốt mọi ứng dụng thường dùng hàng ngày. <a title="Bộ vi xử lý Snapdragon nào là mạnh nhất ở thời điểm hiện tại?" href="https://fptshop.com.vn/tin-tuc/danh-gia/bo-vi-xu-ly-snapdragon-nao-la-manh-nhat-129457" type="Bộ vi xử lý Snapdragon nào là mạnh nhất ở thời điểm hiện tại?">Bộ vi xử lý Snapdragon</a> 8 nhân mạnh mẽ, đi cùng 4GB RAM và 64GB bộ nhớ trong giúp tất cả đều diễn ra trơn tru, mượt mà. Thỏa sức duyệt web, xem phim, quay video, chụp ảnh, vào mạng xã hội, chơi game hay làm bất cứ điều gì bạn thích trên Vivo Y20.</p>
+<p>Cấu hình của Vivo Y20 đủ mạnh để bạn chạy tốt mọi ứng dụng thường dùng hàng ngày. <a title="Bộ vi xử lý Snapdragon nào là mạnh nhất ở thời điểm hiện tại?" href="https://fptshop.com.vn/tin-tuc/danh-gia/bo-vi-xu-ly-snapdragon-nao-la-manh-nhat-129457" type="Bộ vi xử lý Snapdragon nào là mạnh nhất ở thời điểm hiện tại?" target="_blank" rel="noopener">Bộ vi xử lý Snapdragon</a> 8 nhân mạnh mẽ, đi cùng 4GB RAM và 64GB bộ nhớ trong giúp tất cả đều diễn ra trơn tru, mượt mà. Thỏa sức duyệt web, xem phim, quay video, chụp ảnh, vào mạng xã hội, chơi game hay làm bất cứ điều gì bạn thích trên Vivo Y20.</p>
 <p><img loading="lazy" class="Điện thoại Vivo Y20 | Cấu hình mạnh mẽ" title="Điện thoại Vivo Y20 | Cấu hình mạnh mẽ" src="https://images.fpt.shop/unsafe/fit-in/filters:quality(90)/fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/vivo-y20-5.jpg" alt="Điện thoại Vivo Y20 | Cấu hình mạnh mẽ" width="495" height="330" /></p>
 <h3><b>Dung lượng pin cực khủng 5000mAh</b></h3>
 <p>Nhờ viên pin dung lượng lên tới 5000mAh kết hợp cùng công nghệ tiết kiệm năng lượng AI, Vivo Y20 có thể sử dụng thoải mái trong trọn vẹn một ngày. Bạn có thể xem phim thoải mái trong 15 giờ hoặc chơi game liên tục trong 9 giờ. Pin của Vivo Y20 lớn đến mức bạn có thể sạc ngược, dùng làm sạc dự phòng cho các thiết bị khác.</p>
@@ -245,13 +256,13 @@
 </tbody>
 </table>
 </div>]]></description>
-										<content:encoded><![CDATA[<p><b>Không chỉ đưa bạn đến những trải nghiệm đầy phấn khích của mạng 5G siêu tốc, <a href="https://fptshop.com.vn/dien-thoai/oppo-reno6-z">OPPO Reno6 Z 5G</a> còn là chiếc <a href="https://fptshop.com.vn/dien-thoai">điện thoại</a> tuyệt vời để lưu giữ cảm xúc. Chụp ảnh và quay video chân dung chưa bao giờ thú vị đến thế với loạt tính năng chuyên nghiệp, đầy nghệ thuật.</b></p>
+										<content:encoded><![CDATA[<p><b>Không chỉ đưa bạn đến những trải nghiệm đầy phấn khích của mạng 5G siêu tốc, <a href="https://fptshop.com.vn/dien-thoai/oppo-reno6-z" target="_blank" rel="noopener">OPPO Reno6 Z 5G</a> còn là chiếc <a href="https://fptshop.com.vn/dien-thoai" target="_blank" rel="noopener">điện thoại</a> tuyệt vời để lưu giữ cảm xúc. Chụp ảnh và quay video chân dung chưa bao giờ thú vị đến thế với loạt tính năng chuyên nghiệp, đầy nghệ thuật.</b></p>
 <p><b><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-1.jpg" alt="OPPO Reno6 Z 5G" width="575" height="383" /></b></p>
 <h3><b>Quay video chân dung làm đẹp khuôn mặt tự nhiên</b></h3>
 <p>Giờ đây bạn có thể tự tin xuất hiện trong mọi khung hình khi OPPO Reno6 Z 5G tích hợp thuật toán thông minh để vừa làm đẹp khuôn mặt, lại vừa xóa phông hoàn hảo trong những đoạn video làm đẹp chân dung. Bên cạnh đó, OPPO Reno6 Z 5G còn rất nhiều tính năng quay video hấp dẫn khác như video hiển thị kép – ghi lại hành trình thú vị của bạn bằng cách sử dụng cùng lúc cả camera trước và sau để quay video; video khóa nét chủ thể, lấy nét chính xác từng chuyển động trong khung hình.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-2.jpg" alt="quay video OPPO Reno6 Z 5G" width="486" height="324" /></p>
 <h3><b>Chụp ảnh như một nhiếp ảnh gia</b></h3>
-<p>Nhờ những ống kính camera xuất sắc, Reno6 Z 5G giúp bạn có thể chụp ảnh chất lượng như một nhiếp ảnh gia chuyên nghiệp. Camera chính độ phân giải cao 64MP, khẩu độ cực lớn f/1.7 và được hỗ trợ bởi <a href="https://fptshop.com.vn/dien-thoai/ai-camera">thuật toán AI</a> thông minh, biến mọi ánh đèn xung quanh trở thành phông nền đẹp huyền ảo với tính năng chân dung Bokeh Flare. Bạn cũng có thể nội suy hình ảnh lên kích thước tới 108MP, siêu sắc nét, sáng rõ từng chi tiết dù có phóng to đến đâu. Cuối cùng là tính năng bảng màu AI, sử dụng tông màu của bức hình bạn thích để áp vào bức ảnh vừa chụp, chỉ một chạm đơn giản, bạn đã có màu sắc đúng với phong cách mình muốn.</p>
+<p>Nhờ những ống kính camera xuất sắc, Reno6 Z 5G giúp bạn có thể chụp ảnh chất lượng như một nhiếp ảnh gia chuyên nghiệp. Camera chính độ phân giải cao 64MP, khẩu độ cực lớn f/1.7 và được hỗ trợ bởi <a href="https://fptshop.com.vn/dien-thoai/ai-camera" target="_blank" rel="noopener">thuật toán AI</a> thông minh, biến mọi ánh đèn xung quanh trở thành phông nền đẹp huyền ảo với tính năng chân dung Bokeh Flare. Bạn cũng có thể nội suy hình ảnh lên kích thước tới 108MP, siêu sắc nét, sáng rõ từng chi tiết dù có phóng to đến đâu. Cuối cùng là tính năng bảng màu AI, sử dụng tông màu của bức hình bạn thích để áp vào bức ảnh vừa chụp, chỉ một chạm đơn giản, bạn đã có màu sắc đúng với phong cách mình muốn.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-3.jpg" alt="chụp ảnh OPPO Reno6 Z 5G" width="500" height="333" /></p>
 <h3><b>Thiết kế OPPO Reno Glow độc đáo</b></h3>
 <p>OPPO Reno6 Z 5G được phủ lớn sơn Reno Glow, một chất liệu độc đáo đã dành tới hơn 20 bằng sáng chế, đẹp lấp lánh thu hút nhưng lại không bám bẩn hay dấu vân tay. Chiếc điện thoại của bạn luôn mới đẹp, vừa vặn trong lòng bàn tay nhờ độ mỏng chỉ 7,92mm và trọng lượng siêu nhẹ 173gram. Phiên bản màu Bạc đa sắc dành cho những ai thích sự nổi bật, cá tính, trong khi đó bản màu Đen huyền bí thâm trầm, đầy mạnh mẽ.</p>
@@ -263,10 +274,10 @@
 <p>Mang trên mình 8GB RAM và 128GB bộ nhớ trong, OPPO Reno6 Z 5G có thể sử dụng cùng lúc nhiều ứng dụng mà không lo hiện tượng lag giật, đồng thời tha hồ lưu trữ với bộ nhớ cực lớn. Đặc biệt, OPPO Reno6 Z 5G còn có tính năng RAM mở rộng, cho phép chuyển tới 5GB từ bộ nhớ sang để có được dung lượng RAM lên tới 13GB, cho khả năng đa nhiệm hoàn hảo.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-6.jpg" alt="đa nhiệm OPPO Reno6 Z 5G" width="626" height="417" /></p>
 <h3><b>Nâng tầm trải nghiệm chơi game</b></h3>
-<p>Cấu hình của chiếc <a href="https://fptshop.com.vn/dien-thoai/oppo">OPPO</a> này không chỉ mạnh, mà còn được trang bị tính năng cải tiến hiệu năng, tăng tốc hệ thống hiệu quả, giúp bạn có thể chơi tốt những game nặng phổ biến hiện nay. Hệ thống làm mát đa năng với tấm tản nhiệt nằm ngay trên phần cứng, đảm bảo nhiệt độ mát mẻ dù bạn chơi game trong thời gian dài. Ngoài ra bạn còn có chế độ chơi game chuyên nghiệp, tắt đi những thông báo khiến bạn phân tâm để hoàn toàn tập trung vào trò chơi.</p>
+<p>Cấu hình của chiếc <a href="https://fptshop.com.vn/dien-thoai/oppo" target="_blank" rel="noopener">OPPO</a> này không chỉ mạnh, mà còn được trang bị tính năng cải tiến hiệu năng, tăng tốc hệ thống hiệu quả, giúp bạn có thể chơi tốt những game nặng phổ biến hiện nay. Hệ thống làm mát đa năng với tấm tản nhiệt nằm ngay trên phần cứng, đảm bảo nhiệt độ mát mẻ dù bạn chơi game trong thời gian dài. Ngoài ra bạn còn có chế độ chơi game chuyên nghiệp, tắt đi những thông báo khiến bạn phân tâm để hoàn toàn tập trung vào trò chơi.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-7.jpg" alt="chơi game OPPO Reno6 Z 5G" width="548" height="365" /></p>
 <h3><b>Màn hình lớn bảo vệ mắt tích hợp cảm biến vân tay</b></h3>
-<p>Tha hồ trải nghiệm những nội dung sống động trên <a href="https://fptshop.com.vn/dien-thoai/tren-60-inch">màn hình lớn 6,43 inch</a> Full HD+ sắc nét, <a href="https://fptshop.com.vn/tin-tuc/danh-gia/man-hinh-amoled-la-gi-34866">tấm nền AMOLED</a> cao cấp của OPPO Reno6 Z 5G. Màn hình này có tính năng bảo vệ mắt AI, tự động điều chỉnh ánh sáng thông minh để phát ra ánh sáng dịu nhẹ trong đêm tối. Cảm biến vân tay được tích hợp ngay trong màn hình vô cùng tiện lợi, chỉ cần một chạm để mở khóa máy hay xác nhận các ứng dụng thanh toán.</p>
+<p>Tha hồ trải nghiệm những nội dung sống động trên <a href="https://fptshop.com.vn/dien-thoai/tren-60-inch" target="_blank" rel="noopener">màn hình lớn 6,43 inch</a> Full HD+ sắc nét, <a href="https://fptshop.com.vn/tin-tuc/danh-gia/man-hinh-amoled-la-gi-34866" target="_blank" rel="noopener">tấm nền AMOLED</a> cao cấp của OPPO Reno6 Z 5G. Màn hình này có tính năng bảo vệ mắt AI, tự động điều chỉnh ánh sáng thông minh để phát ra ánh sáng dịu nhẹ trong đêm tối. Cảm biến vân tay được tích hợp ngay trong màn hình vô cùng tiện lợi, chỉ cần một chạm để mở khóa máy hay xác nhận các ứng dụng thanh toán.</p>
 <p><img loading="lazy" class="" src="https://fptshop.com.vn/Uploads/images/2015/Tin-Tuc/QuanLNH2/oppo-reno-6z-5g-8.jpg" alt="vân tay OPPO Reno6 Z 5G" width="614" height="409" /></p>
 ]]></content:encoded>
 					
@@ -302,7 +313,7 @@
 				<guid isPermaLink="false">https://anhtinh-92.github.io/mywordpres/?post_type=product&#038;p=240</guid>
 
 					<description><![CDATA[Ốp lưng HTC Desire 12 Plus silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU...]]></description>
-										<content:encoded><![CDATA[<p>Ốp lưng <a href="https://thegioiphukien.vn/phu-kien/phu-kien-htc/htc-desire-12-plus">HTC Desire 12 Plus</a> silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU cao cấp, có độ đàn hồi cao, uốn cong, bóp không bị biến dạng, bảo vệ tuyệt đối cả lưng và viền máy khỏi trày xước, va đập. Các phím bấm được làm nổi giúp thao tác dễ dàng. Sản phẩm chính hãng có logo X-LEVEL được dập nổi ở cạnh bên ốp lưng.</p>
+										<content:encoded><![CDATA[<p>Ốp lưng <a href="https://thegioiphukien.vn/phu-kien/phu-kien-htc/htc-desire-12-plus" target="_blank" rel="noopener">HTC Desire 12 Plus</a> silicon dẻo chính hãng X-LEVEL Guardian không ố vàng, chống bám vân tay. Chất liệu TPU cao cấp, có độ đàn hồi cao, uốn cong, bóp không bị biến dạng, bảo vệ tuyệt đối cả lưng và viền máy khỏi trày xước, va đập. Các phím bấm được làm nổi giúp thao tác dễ dàng. Sản phẩm chính hãng có logo X-LEVEL được dập nổi ở cạnh bên ốp lưng.</p>
 <p><img loading="lazy" class="alignleft size-full wp-image-160987" src="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1.jpg" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" srcset="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1.jpg 700w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1-462x347.jpg 462w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-1-400x300.jpg 400w" alt="" width="700" height="525" /> <img loading="lazy" class="alignleft size-full wp-image-160988" src="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2.jpg" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 984px) 61vw, (max-width: 1362px) 45vw, 600px" srcset="https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2.jpg 700w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-100x100.jpg 100w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-462x462.jpg 462w, https://static.thegioiphukien.vn/uploads/2018/12/op-lung-htc-desire-12-plus-2-300x300.jpg 300w" alt="" width="700" height="700" /></p>
 ]]></content:encoded>
 					
@@ -436,7 +447,7 @@
  	<li>Dung lượng pin:
 <div>3687 mAh, có sạc nhanh</div></li>
 </ul>]]></description>
-										<content:encoded><![CDATA[<h3>Nếu không có gì thay đổi, <a href="https://shopcongnghe.com.vn/dien-thoai-iphone-12-pro-max-512gb-chinh-hang-vn-a-full-vat">iPhone 12 Pro Max 512GB</a> siêu phẩm smartphone đang được mong chờ nhất của Apple sẽ được ra mắt và khoảng nửa cuối năm nay (2020). Hứa hẹn đây sẽ là một sự thay đổi ngoạn mục của iPhone cả về thiết kế lẫn hiệu năng.</h3>
+										<content:encoded><![CDATA[<h3>Nếu không có gì thay đổi, <a href="https://shopcongnghe.com.vn/dien-thoai-iphone-12-pro-max-512gb-chinh-hang-vn-a-full-vat" target="_blank" rel="noopener">iPhone 12 Pro Max 512GB</a> siêu phẩm smartphone đang được mong chờ nhất của Apple sẽ được ra mắt và khoảng nửa cuối năm nay (2020). Hứa hẹn đây sẽ là một sự thay đổi ngoạn mục của iPhone cả về thiết kế lẫn hiệu năng.</h3>
 <h3>Thay đổi thiết kế mới sau 6 năm</h3>
 <p>Theo chu kỳ cứ mỗi 3 năm thì iPhone lại thay đổi thiết kế và 2020 là năm đánh dấu cột mốc quan trong này, vì thế rất có thể đây là thời điểm các mẫu iPhone 12 sẽ có một sự thay đổi mạnh mẽ về thiết kế.</p>
 <p>iPhone 12 Pro Max sở hữu diện mạo mới mới với khung viền được vát thẳng và mạnh mẽ như trên iPad Pro 2020, chấm dứt hơn 6 năm với kiểu thiết kế bo cong trên iPhone 6 được ra mắt lần đầu tiên vào năm 2014.</p>

@@ -5,20 +5,31 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>chuột &#8211; HomePage</title>
+	<title>chuột &#8211; ATT&#039;Store</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/chuot/feed/" rel="self" type="application/rss+xml" />
 	<link>https://anhtinh-92.github.io/mywordpres</link>
 	<description></description>
-	<lastBuildDate>Thu, 30 Sep 2021 09:07:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 08 Oct 2021 03:10:17 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://anhtinh-92.github.io/mywordpres/wp-content/uploads/2021/10/ATTStore.png</url>
+	<title>chuột &#8211; ATT&#039;Store</title>
+	<link>https://anhtinh-92.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Chuột  Zadez M213</title>
 		<link>https://anhtinh-92.github.io/mywordpres/sản%20phẩm/chuot-zadez-m213/</link>
@@ -62,7 +73,7 @@
 					<description><![CDATA[Mô tả Chuột không dây Magic Mouse 2 MLA02 với thiết kế sang trọng, cao cấp mang thương hiệu Apple Các thao...]]></description>
 										<content:encoded><![CDATA[<h2 class="tab-title">Mô tả</h2>
 <div id="tab-description" class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description entry-content active" role="tabpanel" aria-labelledby="tab-title-description">
-<h3>Chuột không dây <a href="https://shopcongnghe.com.vn/chuot-khong-day-magic-mouse-2-white">Magic Mouse 2 MLA02</a> với thiết kế sang trọng, cao cấp mang thương hiệu Apple</h3>
+<h3>Chuột không dây <a href="https://shopcongnghe.com.vn/chuot-khong-day-magic-mouse-2-white" target="_blank" rel="noopener">Magic Mouse 2 MLA02</a> với thiết kế sang trọng, cao cấp mang thương hiệu Apple</h3>
 <p><img loading="lazy" class="aligncenter size-full wp-image-4034 lazy-load-active" title="Chuột không dây Magic Mouse 2 White 9" src="https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1.jpg" sizes="(max-width: 800px) 100vw, 800px" srcset="https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1.jpg 800w, https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1-768x503.jpg 768w, https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1-500x328.jpg 500w" alt="chuot bluetooth apple mla02 trang 1 1" width="800" height="524" data-src="https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1.jpg" data-srcset="https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1.jpg 800w, https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1-768x503.jpg 768w, https://shopcongnghe.com.vn/wp-content/uploads/chuot-bluetooth-apple-mla02-trang-1-1-500x328.jpg 500w" /></p>
 <h3>Các thao tác cảm ứng của chuột Apple Magic Mouse 2 MLA02</h3>
 <p>1. Cuộn trang web hoặc đoạn văn bản lên xuống.</p>
